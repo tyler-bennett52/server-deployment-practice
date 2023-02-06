@@ -10,8 +10,8 @@ Basic API Server where we write some middleware and practice deployment
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [ci/cd](https://github.com/tyler-bennett52/server-deployment-practice/actions) (GitHub Actions)
+- [back-end server url](https://server-deployment-practice-dev-kgie.onrender.com) (when applicable)
 
 ### Setup
 
@@ -21,7 +21,7 @@ not necessary for this lab, wait for tomorrow
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `npm start`
 
 #### How to use your library (where applicable)
 
@@ -32,9 +32,9 @@ not necessary for this lab, wait for tomorrow
 #### Tests
 
 fill this in as you see fit
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests? npm test
+- Any tests of note? no
+- Describe any tests that you did not complete, skipped, etc. I used the tests from the demo.
 
 #### UML
 
